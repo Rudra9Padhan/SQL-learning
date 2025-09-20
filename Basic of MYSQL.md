@@ -18,20 +18,20 @@ Students
 ```
 3. SQL Statements
 
-SQL is divided into categories:
+-SQL is divided into categories:
 
-DDL (Data Definition Language) – create/alter structure
+-DDL (Data Definition Language) – create/alter structure
 
 CREATE, ALTER, DROP
 
-DML (Data Manipulation Language) – manage data
+-DML (Data Manipulation Language) – manage data
 
 INSERT, UPDATE, DELETE
 
-DQL (Data Query Language) – fetch data
+-DQL (Data Query Language) – fetch data
 
 SELECT
 
-DCL/TCL – security & transactions
+-DCL/TCL – security & transactions
 
 GRANT, REVOKE, COMMIT, ROLLBACK
